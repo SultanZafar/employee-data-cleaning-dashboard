@@ -2,7 +2,7 @@
 
 Messy HR dataset (1,206 rows) ko clean karke interactive dashboard banaya.
 
-**Live demo:** https://YOUR-APP.streamlit.app
+**Live demo:** https://employee-dashboard-sultan.streamlit.app
 
 ![Dashboard](screenshots/dashboard.png)
 
