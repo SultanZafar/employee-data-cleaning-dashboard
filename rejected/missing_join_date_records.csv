@@ -1,0 +1,61 @@
+Employee_ID,Name,Age,Salary,City,Department,Gender,Email,Join_Date,Status,Remote_Work
+1056,Fatima Noor,26,95000,LHR,Data,Female,fatima.noor21@gmail.com,,Active,yes
+1061,Hassan Malik,41,,lahore,Data,male,hassan.malik89@company.com,,inactive,yes
+1068,Mariam Shah,30,200000,Lahore,Data,Female,mariam.shah43@gmail.com,,On Leave,No
+1091,Hina Tariq,38,225000,LHR,HR,,hina.tariq99@gmail.com,,On Leave,yes
+1093,Ayesha Khan,50,150000, Lahore ,qa,male,ayesha.khan42@gmail.com,,,no
+1096,Sara Ahmed,29,165000,ISB,data,Female,sara.ahmed86@outlook.com,,On Leave,yes
+1107,Hassan Malik,52,105000,LHR,Data,Male,hassan.malik38@gmail.com,,Active,
+1113,Bilal Ahmed,21,70000,Lahore,QA,Male,bilal.ahmed71@company.com,,active,
+1146,Ali Khan,54,115000,Rawalpindi,data,M,ali.khan53@outlook.com,,Active,No
+1157,Hamza Iqbal,25,55000,KHI,qa,female,hamza.iqbal70@gmail.com,,Active,No
+1208,Ayesha Khan,26,120000,lahore,IT,Male,ayesha.khan10@yahoo.com,,inactive,Yes
+1228,Ali Khan,34,145000, Lahore ,it,female,ali.khan46@company.com,,active,no
+1243,Ayesha Khan,27,195000,,sales,female,ayesha.khan29@yahoo.com,,,Yes
+1254,Fatima Noor,46,90000, islamabad ,sales,female,fatima.noor52@gmail.com,,,yes
+1268,Sana Malik,50,90000,karachi,Data,,sana.malik63@outlook.com,,Active,No
+1269,Hamza Iqbal,31,200000,,it,Male,hamza.iqbal56@company.com,,On Leave,yes
+1283,Ayesha Khan,36,195000,karachi,,female,ayesha.khan50@yahoo.com,,,
+1285, ahmed raza ,50,185000,,sales,F,ahmed.raza64@company.com,,Active,Yes
+1306,Hamza Iqbal,35,125000,KHI,HR,F,hamza.iqbal52@company.com,,,Yes
+1346,Bilal Ahmed,21,100000,KHI,Finance,Male,bilal.ahmed67@outlook.com,,,No
+1352,Hamza Iqbal,30,70000,Rawalpindi,HR,male,hamza.iqbal32@outlook.com,,active,yes
+1354,Fatima Noor,43,195000,ISB,data,,fatima.noor57@outlook.com,,Active,No
+1384,Usman Ali,44,90000,,it,M,usman.ali7@yahoo.com,,,Yes
+1388,Omar Farooq,27,145000,Islamabad,sales,Female,omar.farooq24@yahoo.com,,Active,
+1393,Omar Farooq,22,145000,KHI,HR,male,omar.farooq96@outlook.com,,inactive,
+1404,Bilal Ahmed,47,185000,lahore,sales,Female,bilal.ahmed32@outlook.com,,Active,yes
+1431,Bilal Ahmed,29,105000,ISB,HR,,bilal.ahmed54@yahoo.com,,Inactive,No
+1496,Omar Farooq,35,140000, Lahore ,data,Male,omar.farooq55@gmail.com,,Active,
+1507,Hina Tariq,52,190000,LHR,QA,female,hina.tariq63@outlook.com,,inactive,no
+1531,Usman Ali,22,50000,ISB,,Female,usman.ali30@gmail.com,,,
+1534,Hina Tariq,30,50000,Karachi,QA,Male,hina.tariq58@yahoo.com,,On Leave,yes
+1536,Hamza Iqbal,23,45000,Karachi,Sales,Female,hamza.iqbal39@company.com,,inactive,No
+1539,Ali Khan,33,90000,Lahore,data,Male,ali.khan61@outlook.com,,Active,
+1541,Usman Ali,unknown,45000,ISB,sales,Male,usman.ali10@yahoo.com,,inactive,Yes
+1560,Bilal Ahmed,40,120000,LHR,Sales,M,bilal.ahmed46@outlook.com,,Active,no
+1633,Mariam Shah,38,90000,Islamabad,qa,Male,mariam.shah92@gmail.com,,active,
+1659,Omar Farooq,36,160000,Islamabad,sales,female, OMAR.FAROOQ61@COMPANY.COM ,,,Yes
+1680,Bilal Ahmed,29,225000,Islamabad,qa,Female,bilal.ahmed78@yahoo.com,,Inactive,No
+1706,Sana Malik,27,65000,ISB,sales,male,sana.malik93@company.com,,Inactive,
+1710,Bilal Ahmed,53,120000,rawalpindi,Sales,male,bilal.ahmed29@outlook.com,,Inactive,Yes
+1733, ahmed raza ,34,235000,Lahore,QA,Male,ahmed.raza26@gmail.com,,On Leave,no
+1786,Sara Ahmed,41,,lahore,Data,Male,sara.ahmed59@yahoo.com,,Inactive,Yes
+1789,Fatima Noor,44,190000,Lahore,qa,male,fatima.noor43@company.com,,,No
+1809,Hamza Iqbal,53,,ISB,QA,Male,hamza.iqbal42@outlook.com,,,No
+1819,Bilal Ahmed,29,130000,rawalpindi,IT,M,bilal.ahmed64@yahoo.com,,Active,No
+1865,Fatima Noor,48,70000,LHR,HR,Female,fatima.noor62@outlook.com,,Inactive,no
+1870,Ayesha Khan,25,165000, Lahore ,IT,Male,ayesha.khan96@gmail.com,,On Leave,No
+1943,Sana Malik,40,160000, Lahore ,QA,male,sana.malik46@outlook.com,,,Yes
+1944,Ayesha Khan,43,250000,,Data,F,ayesha.khan3@yahoo.com,,Inactive,no
+1962,Hassan Malik,47,95000,KHI,Data,Male,hassan.malik20@yahoo.com,,On Leave,no
+1982,Usman Ali,unknown,180000,Rawalpindi,QA,M,usman.ali63@company.com,,,Yes
+2008,Danish Raza,23,105000,lahore,QA,Female,danish.raza74@yahoo.com,,,No
+2026,Ayesha Khan,24,105000,LHR,qa,Female,ayesha.khan85@company.com,,active,
+2028,Hina Tariq,52,145000, islamabad ,sales,Female,hina.tariq81@gmail.com,,,Yes
+2096,Hamza Iqbal,31,120000,Rawalpindi,HR,,hamza.iqbal47@yahoo.com,,,no
+2108,Omar Farooq,38,135000,KHI,data,Male,omar.farooq80@outlook.com,,active,No
+2139,Mariam Shah,,70000,Lahore,Data,male,mariam.shah13@gmail.com,,Inactive,No
+2157, ahmed raza ,31,90000,karachi,Data,Female,ahmed.raza69@yahoo.com,,,no
+2162,Omar Farooq,37,165000, Lahore ,QA,male,omar.farooq10@outlook.com,,inactive,yes
+2165, ahmed raza ,46,55000,Karachi,HR,M,ahmed.raza43@outlook.com,,,Yes

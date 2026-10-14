@@ -1,0 +1,147 @@
+Employee_ID,Name,Age,Salary,City,Department,Gender,Email,Join_Date,Status,Remote_Work
+1004, ahmed raza ,,135000,Rawalpindi,sales,, AHMED.RAZA74@YAHOO.COM ,21/08/2024,Inactive,Yes
+1012, ahmed raza ,26,200000,lahore,Sales,,ahmed.raza17@company.com,06-24-2025,active,
+1017,Fatima Noor,50,120000,lahore,Finance,,fatima.noor13@gmail.com,2024-01-16,On Leave,No
+1027,Mariam Shah,27,155000,,Sales,,mariam.shah80@yahoo.com,invalid-date,inactive,yes
+1035,Ali Khan,23,120000,Islamabad,sales,,ali.khan59@company.com,01-05-2026,Active,No
+1040,Ayesha Khan,51,45000,karachi,QA,,ayesha.khan54@yahoo.com,2025-05-12,inactive,no
+1045,Omar Farooq,40,, islamabad ,it,,omar.farooq6@outlook.com,invalid-date,On Leave,no
+1049, ahmed raza ,36,175000,Islamabad,Sales,,ahmed.raza89@company.com,2026-03-22,active,No
+1066,Danish Raza,21,135000,rawalpindi,QA,,danish.raza75@company.com,10/05/2025,On Leave,no
+1077,Sana Malik,44,210000,ISB,QA,,sana.malik33@company.com,10/06/2026,active,Yes
+1083,Ali Khan,24,150000,LHR,Data,,ali.khan27@gmail.com,2025-08-23,On Leave,No
+1091,Hina Tariq,38,225000,LHR,HR,,hina.tariq99@gmail.com,,On Leave,yes
+1092,Sana Malik,42,155000,Lahore,Data,,sana.malik73@company.com,2026-09-22,active,no
+1099,Mariam Shah,28,210000,ISB,data,,mariam.shah45@yahoo.com,2024-07-21,Inactive,Yes
+1100,Sara Ahmed,52,190000,,sales,,sara.ahmed58@outlook.com,03/06/2024,On Leave,yes
+1106,zainab ali,45,250000,,qa,,zainab.ali86@gmail.com,2025-01-05,active,No
+1108,Sara Ahmed,45,90000, Lahore ,Data,, SARA.AHMED99@YAHOO.COM ,01-08-2025,,
+1118,Danish Raza,55,195000,Karachi,IT,,danish.raza25@outlook.com,06-05-2026,,yes
+1147,Ayesha Khan,51,195000,Rawalpindi,data,,ayesha.khan42@outlook.com,04-01-2024,Inactive,Yes
+1148,Sana Malik,32,175000, Lahore ,IT,,sana.malik64@yahoo.com,invalid-date,inactive,
+1158,Hina Tariq,47,160000,KHI,Finance,,hina.tariq49@gmail.com,2025-07-06,inactive,No
+1159,zainab ali,46,210000, Lahore ,data,,zainab.ali97@gmail.com,01-06-2026,Active,No
+1164,Ayesha Khan,30,140000,KHI,Data,,ayesha.khan61@yahoo.com,2025-12-25,On Leave,
+1176,Sana Malik,54,55000,LHR,data,,sana.malik73@company.com,01/12/2025,,Yes
+1179,Ayesha Khan,41,50000,Rawalpindi,QA,,ayesha.khan63@yahoo.com,2025-03-18,inactive,Yes
+1192,Ali Khan,42,250000,lahore,,,ali.khan95@yahoo.com,12-04-2024,active,no
+1200,zainab ali,34,180000,lahore,,,zainab.ali39@gmail.com,2026-04-16,active,No
+1203,Omar Farooq,29,120000, Lahore ,qa,,omar.farooq98@company.com,10-02-2024,active,Yes
+1206,Sana Malik,24,55000,lahore,,,sana.malik3@gmail.com,2025-04-12,inactive,No
+1211,Danish Raza,34,70000,lahore,Data,,danish.raza76@company.com,2026-03-21,Active,No
+1217,Sara Ahmed,52,155000,ISB,Sales,,sara.ahmed34@yahoo.com,13/06/2026,,Yes
+1220,Sana Malik,30,100000,Lahore,Sales,,sana.malik95@company.com,07-26-2026,,
+1236,Hamza Iqbal,,90000, islamabad ,data,, HAMZA.IQBAL70@OUTLOOK.COM ,invalid-date,inactive,no
+1240,Omar Farooq,21,not available, islamabad ,HR,,omar.farooq5@yahoo.com,09-17-2026,On Leave,no
+1246, ahmed raza ,24,170000, islamabad ,Sales,,ahmed.raza20@gmail.com,10-28-2024,inactive,Yes
+1252,Hassan Malik,38,210000,Islamabad,IT,,hassan.malik80@company.com,08-03-2025,,Yes
+1253,Sana Malik,27,225000,,it,,sana.malik69@outlook.com,01/11/2025,Inactive,No
+1259,Hamza Iqbal,,155000,karachi,Data,,hamza.iqbal96@gmail.com,06-15-2024,Inactive,No
+1261,Hamza Iqbal,21,115000,Karachi,sales,,hamza.iqbal92@outlook.com,23/12/2024,Inactive,
+1263,Fatima Noor,40,105000, Lahore ,Sales,,fatima.noor8@company.com,2026-01-08,active,yes
+1268,Sana Malik,50,90000,karachi,Data,,sana.malik63@outlook.com,,Active,No
+1281,Mariam Shah,49,100000, islamabad ,HR,,mariam.shah79@gmail.com,2026-01-14,Inactive,no
+1284,Danish Raza,51,200000, Lahore ,it,,danish.raza42@yahoo.com,2025-06-03,inactive,No
+1297,Omar Farooq,24,165000,KHI,HR,,,2024-09-14,,no
+1300,Ali Khan,30,145000, islamabad ,IT,,ali.khan79@outlook.com,2025-01-01,,No
+1316,Bilal Ahmed,30,160000,KHI,data,,bilal.ahmed94@outlook.com,invalid-date,On Leave,No
+1320,zainab ali,46,155000,karachi,Finance,,zainab.ali78@gmail.com,2024-06-18,inactive,No
+1327,Omar Farooq,54,180000,LHR,Finance,,omar.farooq45@gmail.com,2026-02-23,inactive,
+1340,Bilal Ahmed,33,120000,rawalpindi,data,,bilal.ahmed27@yahoo.com,25/09/2025,Inactive,Yes
+1354,Fatima Noor,43,195000,ISB,data,,fatima.noor57@outlook.com,,Active,No
+1357,Hina Tariq,38,135000,Rawalpindi,Sales,,hina.tariq53@yahoo.com,2024-10-23,Inactive,yes
+1363,Hina Tariq,38,230000,lahore,HR,,hina.tariq2@gmail.com,12-05-2025,active,No
+1371,zainab ali,47,160000,,IT,,zainab.ali35@gmail.com,2024-03-20,On Leave,No
+1379,Sana Malik,28,115000,rawalpindi,,,,2025-06-20,On Leave,yes
+1387, ahmed raza ,45,,Karachi,,,,06-07-2026,,
+1396,Hina Tariq,34,65000, Lahore ,Finance,,hina.tariq63@outlook.com,13/03/2025,On Leave,no
+1398,Ayesha Khan,23,220000,KHI,Sales,,ayesha.khan7@yahoo.com,07/11/2024,,
+1405,Ali Khan,30,55000,Rawalpindi,sales,, ALI.KHAN39@OUTLOOK.COM ,2025-03-02,On Leave,
+1418,Usman Ali,39,130000,ISB,qa,,usman.ali86@gmail.com,2024-04-27,inactive,Yes
+1431,Bilal Ahmed,29,105000,ISB,HR,,bilal.ahmed54@yahoo.com,,Inactive,No
+1440,Sana Malik,30,200000,,HR,,sana.malik31@company.com,08-14-2025,inactive,yes
+1443,Hamza Iqbal,38,150000,Karachi,QA,,hamza.iqbal33@company.com,09-04-2024,Active,
+1454,Ali Khan,23,150000,Lahore,qa,,ali.khan6@company.com,11-14-2025,,
+1464,Ayesha Khan,33,,karachi,data,,ayesha.khan42@yahoo.com,2026-06-09,Active,no
+1471,Mariam Shah,50,120000,Rawalpindi,IT,,mariam.shah10@company.com,03/02/2024,,
+1477,Fatima Noor,33,65000,Lahore,data,,fatima.noor83@outlook.com,23/10/2025,On Leave,
+1482,Sana Malik,39,225000,Rawalpindi,Data,,sana.malik94@company.com,2025-05-05,On Leave,yes
+1486,Omar Farooq,47,185000,Karachi,Data,,omar.farooq55@company.com,2024-03-29,,
+1494,Usman Ali,30,205000,LHR,data,,usman.ali79@gmail.com,2024-04-29,On Leave,yes
+1498,Mariam Shah,43,50000,lahore,Data,,mariam.shah36@outlook.com,03-10-2026,,Yes
+1508,Sana Malik,28,165000,Islamabad,qa,,,06-30-2024,inactive,No
+1517,Sana Malik,22,245000,rawalpindi,Sales,,sana.malik74@company.com,30/01/2026,active,
+1550,Sana Malik,40,145000, islamabad ,Finance,,sana.malik58@outlook.com,2026-04-09,,
+1562,Hamza Iqbal,27,120000,Lahore,Finance,,hamza.iqbal97@gmail.com,2025-09-16,inactive,Yes
+1573,Bilal Ahmed,27,90000,rawalpindi,HR,,bilal.ahmed11@gmail.com,2025-05-02,inactive,
+1574,Ayesha Khan,unknown,220000,ISB,HR,,ayesha.khan75@company.com,06/12/2025,Inactive,No
+1578,Hamza Iqbal,40,225000,Islamabad,qa,,hamza.iqbal61@yahoo.com,16/04/2025,inactive,yes
+1582,Hassan Malik,48,100000,KHI,IT,,hassan.malik41@company.com,04-11-2024,On Leave,yes
+1586,Fatima Noor,,175000,Islamabad,it,,fatima.noor65@yahoo.com,2025-07-07,,no
+1587,Sana Malik,,185000,Lahore,IT,,sana.malik80@outlook.com,02/03/2024,inactive,no
+1599, ahmed raza ,51,120000,karachi,IT,,ahmed.raza67@yahoo.com,26/09/2025,Inactive,
+1601,Mariam Shah,24,220000,Lahore,QA,,mariam.shah52@gmail.com,06-04-2026,inactive,no
+1604,Fatima Noor,unknown,180000,ISB,,,fatima.noor40@yahoo.com,invalid-date,Inactive,
+1605,Mariam Shah,30,60000,LHR,Sales,,mariam.shah7@company.com,2025-10-17,On Leave,no
+1606,Omar Farooq,50,235000,rawalpindi,qa,,omar.farooq73@outlook.com,2024-06-15,On Leave,Yes
+1612,Hina Tariq,unknown,105000,ISB,QA,,,25/03/2026,active,
+1613,Sana Malik,52,110000,rawalpindi,it,,sana.malik85@gmail.com,06-22-2026,inactive,
+1632,Omar Farooq,49,85000,Islamabad,QA,,omar.farooq22@gmail.com,05-07-2024,active,Yes
+1639,Hassan Malik,32,245000,,qa,,hassan.malik62@gmail.com,22/08/2025,,No
+1644,Sara Ahmed,26,100000, islamabad ,Sales,,sara.ahmed31@gmail.com,06-17-2024,active,
+1656,Bilal Ahmed,27,45000,Lahore,QA,,bilal.ahmed86@gmail.com,08/01/2024,Active,yes
+1683,Hamza Iqbal,31,175000, Lahore ,qa,,hamza.iqbal49@gmail.com,2024-10-03,inactive,no
+1689,Ali Khan,26,135000,ISB,Finance,,ali.khan55@yahoo.com,11-24-2025,Active,
+1695,Fatima Noor,44,180000, Lahore ,Sales,,fatima.noor14@company.com,invalid-date,Inactive,No
+1698,Sara Ahmed,30,155000,ISB,IT,,sara.ahmed31@gmail.com,09-26-2026,,yes
+1711,Mariam Shah,30,130000, Lahore ,QA,,mariam.shah83@yahoo.com,2024-04-28,Active,yes
+1713,Sara Ahmed,37,50000,ISB,,,sara.ahmed14@company.com,10-03-2025,On Leave,no
+1718,Danish Raza,26,105000, Lahore ,Finance,,danish.raza57@yahoo.com,2024-09-06,On Leave,
+1735,Hassan Malik,47,205000,lahore,Sales,,hassan.malik4@company.com,08/02/2024,active,Yes
+1736,Sana Malik,26,120000,LHR,data,,sana.malik84@yahoo.com,09-13-2026,,
+1745,Bilal Ahmed,34,60000,LHR,IT,,bilal.ahmed55@outlook.com,2024-05-25,,no
+1766, ahmed raza ,unknown,230000,Karachi,Data,,ahmed.raza93@company.com,09-02-2025,active,Yes
+1788,zainab ali,53,95000,,Data,,zainab.ali13@outlook.com,05-17-2025,Active,no
+1807,Fatima Noor,21,95000,karachi,Sales,,fatima.noor27@outlook.com,2025-06-09,On Leave,
+1822,Hamza Iqbal,23,45000,rawalpindi,data,,hamza.iqbal10@gmail.com,14/02/2024,Active,No
+1825,Bilal Ahmed,38,70000,LHR,Data,,bilal.ahmed30@outlook.com,01-16-2025,On Leave,No
+1828,Sana Malik,22,235000,,qa,,sana.malik97@yahoo.com,04-29-2026,Inactive,Yes
+1834,Ali Khan,37,125000,Lahore,,,ali.khan70@gmail.com,03-20-2024,Inactive,No
+1864,Hina Tariq,46,105000, islamabad ,QA,,hina.tariq55@gmail.com,12/04/2024,Inactive,no
+1877,Mariam Shah,51,110000, Lahore ,IT,,mariam.shah28@gmail.com,invalid-date,active,Yes
+1884,Hamza Iqbal,30,120000,rawalpindi,Data,,hamza.iqbal11@company.com,03-30-2025,active,
+1895,Mariam Shah,46,140000,Lahore,data,,mariam.shah14@company.com,14/08/2025,On Leave,No
+1898, ahmed raza ,36,90000,Rawalpindi,Sales,,ahmed.raza1@company.com,07-17-2025,Inactive,no
+1899,Mariam Shah,45,190000,rawalpindi,data,,mariam.shah50@yahoo.com,13/02/2025,Active,no
+1904,Ayesha Khan,37,245000,lahore,sales,,ayesha.khan65@outlook.com,05-14-2026,inactive,No
+1919,zainab ali,55,215000,KHI,data,,zainab.ali64@company.com,invalid-date,inactive,yes
+1922,Sana Malik,45,220000,ISB,data,,sana.malik59@outlook.com,04-28-2025,active,yes
+1933,Bilal Ahmed,50,225000,Rawalpindi,IT,,bilal.ahmed68@yahoo.com,03/02/2024,,
+1934, ahmed raza ,38,220000,ISB,Sales,,ahmed.raza8@company.com,09-19-2024,Active,No
+1936,Ali Khan,34,115000,LHR,sales,,ali.khan62@company.com,22/02/2024,On Leave,no
+1940,Bilal Ahmed,52,95000, Lahore ,it,,bilal.ahmed87@outlook.com,12-16-2024,inactive,No
+1945,Hassan Malik,,220000,rawalpindi,data,,hassan.malik80@company.com,2024-09-05,active,
+1954,Usman Ali,41,180000, Lahore ,QA,,usman.ali75@outlook.com,07-24-2024,active,
+1971,Mariam Shah,42,210000,Karachi,it,,mariam.shah55@gmail.com,20/08/2024,Inactive,yes
+1998,Omar Farooq,33,120000, islamabad ,Data,,omar.farooq4@company.com,06/04/2024,active,no
+2023,Sara Ahmed,23,190000,KHI,Sales,,sara.ahmed52@yahoo.com,22/08/2026,active,no
+2030,Hassan Malik,32,135000,Karachi,it,,hassan.malik21@yahoo.com,07-21-2026,On Leave,no
+2034,Ali Khan,unknown,175000, Lahore ,qa,,ali.khan25@outlook.com,25/01/2024,Inactive,No
+2038,Hina Tariq,41,205000,lahore,IT,,hina.tariq98@gmail.com,2024-03-07,active,Yes
+2055,Hina Tariq,38,120000, Lahore ,qa,, HINA.TARIQ61@YAHOO.COM ,12-30-2024,Active,yes
+2061,zainab ali,31,120000,LHR,it,,zainab.ali46@outlook.com,12/03/2024,Inactive,no
+2062,Mariam Shah,46,not available, Lahore ,Sales,,mariam.shah27@company.com,08/06/2026,Active,
+2065,Hassan Malik,26,230000,karachi,Sales,, HASSAN.MALIK51@YAHOO.COM ,10-04-2025,active,yes
+2075,Hina Tariq,21,250000,Lahore,sales,,hina.tariq72@company.com,2026-01-30,inactive,yes
+2079,Danish Raza,34,not available,KHI,it,,danish.raza15@gmail.com,09-17-2024,inactive,No
+2090,Hamza Iqbal,22,185000,Islamabad,qa,,hamza.iqbal56@gmail.com,01-12-2025,,Yes
+2096,Hamza Iqbal,31,120000,Rawalpindi,HR,,hamza.iqbal47@yahoo.com,,,no
+2111,Ayesha Khan,49,185000, Lahore ,HR,,,22/02/2026,On Leave,no
+2120,Sara Ahmed,31,60000,Islamabad,Data,,sara.ahmed31@outlook.com,08/09/2024,active,No
+2122,Hassan Malik,,120000,rawalpindi,HR,,hassan.malik68@company.com,2024-05-09,Inactive,yes
+2132,Hina Tariq,42,240000,rawalpindi,qa,,hina.tariq34@outlook.com,06-08-2024,inactive,
+2155,Sara Ahmed,28,45000,LHR,it,,sara.ahmed23@gmail.com,05-27-2025,Inactive,
+2177,Sana Malik,27,120000,Karachi,QA,,sana.malik97@yahoo.com,2024-01-04,active,
+2183,Bilal Ahmed,38,215000, Lahore ,,,bilal.ahmed94@gmail.com,09/08/2024,,
+2196,zainab ali,51,135000,Islamabad,Sales,,zainab.ali20@yahoo.com,2025-09-28,Active,
+2200,Bilal Ahmed,43,50000,,sales,,bilal.ahmed68@yahoo.com,2026-04-01,,yes

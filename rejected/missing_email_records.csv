@@ -1,0 +1,56 @@
+Employee_ID,Name,Age,Salary,City,Department,Gender,Email,Join_Date,Status,Remote_Work
+1036,Mariam Shah,21,75000,,HR,Male,,2024-09-12,active,
+1062,Hassan Malik,28,170000,ISB,IT,female,,14/06/2025,On Leave,no
+1067,Bilal Ahmed,41,105000,rawalpindi,data,Female,,01/02/2026,inactive,no
+1097,Hamza Iqbal,48,225000,KHI,,F,,2024-11-28,Inactive,yes
+1160,Usman Ali,50,155000, Lahore ,QA,Male,,07/11/2025,,Yes
+1219,Fatima Noor,27,225000,Rawalpindi,it,Male,,2026-06-02,,no
+1237,Ali Khan,42,240000,LHR,Data,male,,05-31-2024,,Yes
+1273,Hina Tariq,55,240000,Lahore,sales,M,,28/04/2024,,yes
+1289,Sana Malik,46,110000,Islamabad,data,female,,10-10-2025,Inactive,no
+1297,Omar Farooq,24,165000,KHI,HR,,,2024-09-14,,no
+1305,Danish Raza,48,250000,lahore,,Male,,2024-03-16,Active,Yes
+1351,Usman Ali,31,170000,lahore,it,M,,02-10-2025,inactive,yes
+1369,Ali Khan,29,100000,Lahore,data,M,,19/10/2025,inactive,
+1379,Sana Malik,28,115000,rawalpindi,,,,2025-06-20,On Leave,yes
+1387, ahmed raza ,45,,Karachi,,,,06-07-2026,,
+1417,Danish Raza,26,150000,Islamabad,IT,M,,15/02/2026,On Leave,No
+1495,Omar Farooq,44,85000,Islamabad,sales,Female,,2026-04-14,Inactive,No
+1508,Sana Malik,28,165000,Islamabad,qa,,,06-30-2024,inactive,No
+1577,Sara Ahmed,unknown,175000,Lahore,QA,male,,14/07/2025,active,no
+1593,Usman Ali,52,160000,Lahore,QA,F,,04-20-2026,,
+1612,Hina Tariq,unknown,105000,ISB,QA,,,25/03/2026,active,
+1634,Mariam Shah,27,165000,rawalpindi,QA,F,,2025-01-21,Active,No
+1705,Usman Ali,38,110000, islamabad ,HR,M,,09-18-2026,Active,no
+1715,Bilal Ahmed,32,100000,LHR,sales,F,,2024-06-15,,No
+1737,Sana Malik,42,185000,,Data,male,,12-30-2025,Inactive,
+1754,Usman Ali,51,80000,karachi,Finance,F,,2025-01-18,,yes
+1758,Danish Raza,,95000,karachi,data,M,,02-27-2026,Active,
+1793,Hamza Iqbal,,, Lahore ,QA,F,,2024-02-11,Inactive,Yes
+1798,zainab ali,43,190000,karachi,HR,F,,2025-07-26,inactive,No
+1799,Hamza Iqbal,40,120000, islamabad ,Sales,male,,15/05/2026,active,no
+1806,Ali Khan,unknown,140000,Lahore,,female,,17/07/2026,,no
+1815,Fatima Noor,27,80000,Islamabad,data,M,,21/04/2026,On Leave,yes
+1849,zainab ali,53,95000,Lahore,sales,M,,2026-05-02,On Leave,
+1854,Ali Khan,48,65000,Islamabad,Sales,Female,,05/12/2025,active,No
+1857,Omar Farooq,29,195000,,Finance,Female,,10-01-2024,inactive,no
+1862,Ali Khan,31,135000,Karachi,IT,Male,,2026-02-06,,no
+1863,Sara Ahmed,38,70000,lahore,it,Female,,01-30-2026,,
+1880,Omar Farooq,37,,lahore,Sales,F,,09/01/2025,,no
+1912,Hamza Iqbal,46,100000,Rawalpindi,QA,male,,02-28-2025,Active,
+1946,Bilal Ahmed,23,,KHI,Finance,Male,,02-27-2024,Inactive,no
+1960,Danish Raza,40,115000,rawalpindi,it,female,,14/09/2026,,Yes
+1975,Fatima Noor,45,210000,KHI,Finance,F,,09-14-2024,Inactive,
+2001, ahmed raza ,31,45000,ISB,IT,M,,07-15-2026,Inactive,No
+2010,Omar Farooq,41,65000,rawalpindi,data,F,,2025-01-25,active,yes
+2011,Ali Khan,36,,karachi,Data,F,,05-25-2024,active,no
+2018,zainab ali,25,115000, Lahore ,,Male,,2025-03-27,Inactive,yes
+2036,Omar Farooq,,50000,Karachi,HR,Male,,19/11/2025,inactive,
+2073,Bilal Ahmed,25,not available, Lahore ,data,M,,24/05/2025,inactive,Yes
+2107,zainab ali,38,85000,,it,female,,11-07-2025,,
+2111,Ayesha Khan,49,185000, Lahore ,HR,,,22/02/2026,On Leave,no
+2123,Danish Raza,40,80000, islamabad ,HR,F,,2025-05-13,inactive,No
+2127,Omar Farooq,,130000,Lahore,IT,Female,,17/02/2025,active,
+2161,Hina Tariq,23,245000,karachi,data,male,,2024-04-19,On Leave,No
+2169,Fatima Noor,38,120000, islamabad ,it,female,,27/04/2024,inactive,No
+2199,Hina Tariq,,165000,rawalpindi,IT,Female,,2024-07-31,,
