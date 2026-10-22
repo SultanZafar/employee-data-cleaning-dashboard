@@ -1,15 +1,13 @@
 # Employee Data Cleaning & Dashboard
 
-Messy HR dataset (1,206 rows) ko clean karke interactive dashboard banaya.
+Cleaned and processed a messy HR dataset of 1,206 rows to build an interactive dashboard.
 
 **Live demo:** https://employee-dashboard-sultan.streamlit.app
 
 ![Dashboard](screenshots/dashboard.png)
 
 ## Problem
-Raw data me inconsistent city names (LHR / lahore / Lahore), 3 alag date formats,
-hidden missing values ("unknown", "not available", "invalid-date"), duplicates
-aur mixed Gender/Status spellings thin.
+"Cleaned a messy raw dataset by resolving inconsistent city names (LHR/lahore/Lahore), standardizing three different date formats, handling hidden missing values ('unknown', 'not available', 'invalid-date'), removing duplicates, and fixing inconsistent spellings in the Gender and Status columns."
 
 ## What I did
 - Text standardization (City, Department, Gender, Status)
